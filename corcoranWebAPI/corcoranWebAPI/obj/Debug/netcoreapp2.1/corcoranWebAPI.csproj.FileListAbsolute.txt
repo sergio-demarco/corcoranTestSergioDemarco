@@ -1,0 +1,14 @@
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/bin/Debug/netcoreapp2.1/corcoranWebAPI.deps.json
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/bin/Debug/netcoreapp2.1/corcoranWebAPI.runtimeconfig.json
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/bin/Debug/netcoreapp2.1/corcoranWebAPI.runtimeconfig.dev.json
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/bin/Debug/netcoreapp2.1/corcoranWebAPI.dll
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/bin/Debug/netcoreapp2.1/corcoranWebAPI.pdb
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.csprojAssemblyReference.cache
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.csproj.CoreCompileInputs.cache
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.RazorAssemblyInfo.cache
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.RazorAssemblyInfo.cs
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.AssemblyInfoInputs.cache
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.AssemblyInfo.cs
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.RazorTargetAssemblyInfo.cache
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.dll
+/Users/sergio/corcoranTestSergioDemarco/corcoranWebAPI/corcoranWebAPI/obj/Debug/netcoreapp2.1/corcoranWebAPI.pdb

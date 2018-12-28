@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0DF9ADA4-F0DA-43B9-BC7B-0CFEDA9FB5ED}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.corcoranWebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="corcoranWebAPI/Controllers/PresidentsController.cs">
+    <Files>
+      <File FileName="corcoranWebAPI/Controllers/PresidentsController.cs" Line="18" Column="42" />
+      <File FileName="corcoranWebAPI/Model/President.cs" Line="10" Column="34" />
+      <File FileName="corcoranWebAPI/Startup.cs" Line="35" Column="9" />
+      <File FileName="corcoranWebAPI/MockData/Presidents.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
